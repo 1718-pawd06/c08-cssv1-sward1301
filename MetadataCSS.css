@@ -1,0 +1,18 @@
+/*
+* Shannon Ward
+* March 22, 2018
+* Metadata CSS
+*/
+
+
+/* The universal selector */
+
+
+/* Put body attributes here */
+<style>
+	body { 
+		background-color: #ffffcc;
+		color: #686868;
+	}
+	
+</style>
